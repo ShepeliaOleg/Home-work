@@ -11,7 +11,6 @@ import java.io.PrintWriter;
 public class Servlet extends HttpServlet{
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-/*
 
         PrintWriter printWriter = resp.getWriter();
 
@@ -34,13 +33,18 @@ public class Servlet extends HttpServlet{
 
         //resp.encodeRedirectURL("https://www.google.com.ua");
         resp.encodeRedirectURL("https://www.google.com.ua");
-*/
 
     }
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
+        PrintWriter printWriter = resp.getWriter();
+
+        printWriter.println("<h1> word </h1>");
+
+        //resp.encodeRedirectURL("https://www.google.com.ua");
+        //resp.sendRedirect("https://www.google.com.ua");
     }
 
 

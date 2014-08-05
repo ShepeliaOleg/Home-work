@@ -14,9 +14,10 @@
 
 <form method="post" action="AuthorizationForm.jsp" class="loginClass">
     <%--@declare id="loginClass"--%>
-    <label for="loginClass"> Login</label>
+    <label> Login</label>
     <input type="email" name="log">
     <br/>
+        <label>Password</label>
     <input type="password" name="psw">
     <br/>
     <input type="submit" name="login">
