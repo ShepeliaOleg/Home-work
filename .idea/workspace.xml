@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb33dd93-b4d5-4943-99d4-b6a9df52a221" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Work/MyServlret/Login.java" afterPath="$PROJECT_DIR$/src/main/java/Work/MyServlret/Login.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HW_Servlet.iws" />
@@ -917,12 +916,17 @@
       <workItem from="1407763266276" duration="2957000" />
       <workItem from="1407924299154" duration="2652000" />
       <workItem from="1407931918543" duration="3597000" />
-      <workItem from="1407997179789" duration="17891000" />
+      <workItem from="1407997179789" duration="17939000" />
     </task>
+    <task id="LOCAL-00001" summary="loginForm">
+      <created>1408022656621</created>
+      <updated>1408022656621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65990000" />
+    <option name="totallyTimeSpent" value="66038000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -993,6 +997,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="loginForm" />
+    <option name="LAST_COMMIT_MESSAGE" value="loginForm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
