@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <data>
+        <entry>
+            <key>
+                <login>loginTest1</login>
+            </key>
+            <value>
+                <password>passwordTest1</password>
+            </value>
+        </entry>
+        <entry>
+            <key>
+                <login>log2</login>
+            </key>
+            <value>
+                <password>pass2</password>
+            </value>
+        </entry>
+    </data>
+</user>

@@ -128,6 +128,7 @@
       <Port>5050</Port>
     </configuration>
   </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
